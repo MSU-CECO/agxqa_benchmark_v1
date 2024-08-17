@@ -37,7 +37,7 @@ We used the standard and official scripts for the appropriate downstream tasks:
 
 The resulting models are hosted on our HuggingFace page:
 - Base model (after MLM): [roberta-ft-on-agextcorpus](https://huggingface.co/msu-ceco/roberta-ft-on-agextcorpus-2023-12-10_v2)
-- AgRoBERTa (post Pfeiffer pretrained adapter): [roberta-ft-on-agextcorpus](https://huggingface.co/msu-ceco/roberta-ft-on-agextcorpus-2023-12-10_v2)
+- AgRoBERTa (post Pfeiffer pretrained adapter): [agroberta](https://huggingface.co/msu-ceco/agroberta_2024-01-11_21-02-21)
 
 ## Acknowledgments
 
