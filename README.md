@@ -24,14 +24,25 @@ conda env create -f environment.yaml
 
 ## Data Preparation
 
-
+Please check out the README.md inside the `data` folder for further details. The HuggingFace repositories for the resulting datasets can be found here:
+- [AEC v1](https://huggingface.co/datasets/msu-ceco/aec_v1)
+- [AgXQA v1](https://huggingface.co/datasets/msu-ceco/agxqa_v1)
 
 ## Model Training
 
+We used the standard and official scripts for the appropriate downstream tasks:
+- [For MLM](https://github.com/huggingface/transformers/tree/main/examples/pytorch/language-modeling#robertabertdistilbert-and-masked-language-modeling)
+- [For QA fine-tuning](https://github.com/huggingface/transformers/tree/main/examples/pytorch/question-answering)
+- [For PEFT-based QA fine-tuning](https://github.com/adapter-hub/adapters/tree/main/examples/pytorch/question-answering)
+
+The resulting models are hosted on our HuggingFace page:
+- Base model (after MLM): [roberta-ft-on-agextcorpus](https://huggingface.co/msu-ceco/roberta-ft-on-agextcorpus-2023-12-10_v2)
+- AgRoBERTa (post Pfeiffer pretrained adapter): [roberta-ft-on-agextcorpus](https://huggingface.co/msu-ceco/roberta-ft-on-agextcorpus-2023-12-10_v2)
 
 ## Acknowledgments
 
-- AgXQA was inspired by Rajpurkar et al. (2016)'s work on [SQuAD](https://aclanthology.org/D16-1264).
+- The format of AgXQA was inspired by Rajpurkar et al. (2016)'s work on [SQuAD](https://aclanthology.org/D16-1264).
+- The modeleling code for MLM and QA tasks came from HF's [Transformers](https://github.com/huggingface/transformers) and the [Adapters](https://github.com/adapter-hub/adapters) libraries repositories.
 
 ## Citation
 
