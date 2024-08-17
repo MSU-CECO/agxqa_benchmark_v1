@@ -1,0 +1,74 @@
+METHODS OF MEASURING FOR IRRIGATION SCHEDULING-WHEN
+Edward C. Martin
+Introduction
+Proper irrigation management requires that growers assess their irrigation needs by taking measurements of various physical parameters. Some use sophisticated equipment while others use tried and true common sense approaches. Whichever method used, each has merits and limitations. In developing any irrigation management strategy, two questions are common: "When do Irrigate?" and "How much do I apply?" This bulletin deals with the WHEN.
+Soil Moisture Techniques
+One method commonly used to determine when to irrigate is to follow soil moisture depletion. As a plant grows, it uses the water within the soil profile of its rootzone. As the water is being used by the plants, the moisture in the soil reaches a level at which irrigation is required or the plant will experience stress. If water is not applied, the plant will continue to use what little water is left until it finally uses all of the available water in the soil and dies.
+When the soil profile is full of water, reaching what is called field capacity (FC), the profile is said to be at 100% moisture content or at about 0.1 bars of tension. Tension is a measurement of how tightly the soil particles hold onto water molecules in the soil: the tighter the hold, the higher the tension. At FC, with a tension of only 0.1 bars, the water is not being held tightly and it is easy for plants to extract water from the soil. As the water is depleted by the plants, the tension in the soil increases. Figure 1 shows three typical curves for sand, clay and loam soils. As Fig. 1 shows, the plants will use the water in the soil until the moisture level goes to the permanent wilting point (PWP). Once the soil dries down to the PWP, plants can no longer extract water from the soil and the plants die. Although there is still some moisture in the soil below the PWP, this water is held SO tightly by the soil particles that it cannot be extracted by the plant roots. The PWP occurs at different moisture levels depending on the plant and soil type. Some plants, which are adapted to arid conditions, can survive with very little moisture in the soil. With most agronomic crops, PWP occurs when the tension in the soil is at 15 bars. This means that the soil is holding on very tightly to the water in its pores. In order for plants to use
+Figure 1. A diagram of typical tension and water amounts for sand, clay and loam. (Taken from the National Engineering Handbook, 210-VI).
+this water, they must create a suction greater than 15 bars. For most commercial crops, this is not possible. At 15 bars, most plants begin to die. The difference between field capacity and PWP is called the plant available water (PAW).
+Irrigation targets are usually set as a percent depletion of the PAW. This depletion level is referred to as Management Allowable Depletion (MAD). The bulk of irrigation research recommends irrigating row crops such as grain or cotton when the MAD approaches 50%. For vegetable crops, the MAD is usually set at 40% or less, because they are more sensitive to water stress. These defined amounts insure that water stress will not be SO severe as to cause any appreciable yield losses. Careful monitoring of the PAW needs to be done throughout the season SO that the appropriate point of irrigation can be anticipated. The following approaches can be used to determine soil moisture content.
+The "Feel Method"
+Determining soil moisture by feeling the soil has been used for many years by researchers and growers alike. By squeezing the soil between the thumb and forefinger or by
+squeezing the soil in the palm of a hand, a fairly accurate estimate of soil moisture can be determined. It takes a bit of time and some experience, but it is a proven method. Table 1 gives a description of "how the soil should feel" at certain soil moisture levels. In this table soil moisture information is given using inches per foot (in. /ft.). This term (in. /ft.) refers to how many inches of water are available in a foot of soil. For example, looking at sand (Table 1, column 1) we can see that the wilting point is about 1.0 in. /ft. This implies that sand holds one inch of water per foot of soil. As the soil dries, it becomes harder to make a soil ball; soon the soil is crumbling in your fingers. Irrigation should occur somewhere in the shaded area, earlier for crops sensitive to water stress.
+Sandy loam soil makes a good ball at 0.6 in. / ft. deficit (about 40% deficit) but will not make a ball at all and only sticks together at 1.0 in. / ft. (about 66% deficit). Once you become familiar with the feel of the soil, it becomes easier to estimate soil moisture content. However, it takes time to become familiar with the feel of the soil and this method requires a great deal of experience.
+Table 1. Description of the soil texture parameters used to determine soil moisture using the feel method.
+Soil Texture Classification
+Moisture Deficiency	Coarse	Light	Medium	Fine	Moisture Deficiency
+Inches/ft	(Loamy Sand)	(Sandy Loam)	(Loam)	(Clay Loam)	Inches/ft
+(Field Capacity)	(Field Capacity)	(Field Capacity)	(Field Capacity)
+0.0	Leaves a wet outline	Leaves wet outline on	Leaves wet outline on	hand; will ribbon out	0.0
+on hand when	hand; makes a short	hand; will ribbon out	about 2 inches
+squeezed	ribbon	about 1 inch
+0.2	0.2
+Appears moist	Makes a hard ball
+0.4	Makes a weak ball	Forms a plastic ball,	Will slick and ribbon	0.4
+Slicks when rubbed	easily
+0.6	Sticks together	Makes a good ball.	Makes a thick ribbon	0.6
+slightly
+Slicks when rubbed
+0.8	Very dry; loose, flows	Makes a weak ball	Forms a hard ball	0.8
+through fingers
+Makes a good ball
+1.0	Wilting point	1.0
+Sticks together	Forms a good ball	Will ball but won't
+but will not ball	ribbon. Small clods
+1.2	Forms a weak ball	1.2
+1.4	Wilting Point	Clods crumble	1.4
+1.6	1.6
+1.8	A "Ball" is formed by	Wilting Point	1.8
+squeezing a handful
+of soil firmly
+2.0	A "Ribbon" is formed	2.0
+between thumb and
+forefinger
+2.2	2.2
+Wilting Point
+2.4	2.4
+2 The University of Arizona Cooperative Extension
+Figure 2. Diagram of a neutron moisture gauge (neutron probe).
+Neutron Probe
+The neutron probe has been used extensively in research situations to determine soil moisture. A neutron probe or neutron moisture gauge contains a radioactive source that sends out fast neutrons. These fast neutrons are about the size of a hydrogen atom, a critical component of water. When fast neutrons hit a hydrogen atom, they slow down. A detector within the probe measures the rate of fast neutrons leaving and slow neutrons returning. This ratio can then be used to estimate soil moisture content. However, because every soil has some background hydrogen sources that are not related to water, calibration is important for each soil. To measure soil moisture with a neutron probe, an access tube is installed into the ground. Then, the probe (which contains the radioactive source and the detector) is lowered to the desired depth (Fig. 2). Probes are quite expensive (approximately $6,400), and because they contain radioactive material, require an operating license.
+Electrical Resistance
+Another method that has been used for several years to determine soil moisture content is electrical resistance. Devices such as gypsum blocks and Watermark sensors use electrical resistance to measure soil moisture. The principle behind these devices is that moisture content can be determined by the resistance between two electrodes embedded in the soil. The more water in the soil, the lower the resistance. In the early stages of development, it was discovered that a salt bridge can form between the two electrodes, giving false readings. Today, electrodes are embedded in more stable material and are not as susceptible to salt bridging. The practical use of these devices is limited as they operate best in the high range of soil moisture. To measure soil moisture, the blocks are buried in the ground at the desired depth, with wire leads to the soil surface. A meter ($200-$300) is connected to the wire leads and a reading is taken (Fig. 3). Retrieval of these instruments is difficult in clay soils, but they are relatively inexpensive (approximately $25 ea.).
+Figure 3. Diagram of resistance blocks. Here, three blocks are anchored by a stake in the field.
+Figure 4. Diagram of a tensiometer. In some cases, the gauge is replaced with a connection for a transducer that measures suction.
+Soil Tension
+As previously mentioned, as soil dries out, the soil particles retain the water with greater force. Tensiometers measure how tightly the soil water is being held. Most tensiometers have a porous or ceramic tip connected to a water column.
+The tensiometers are installed to the desired depth (Fig. 4). As the soil dries, it begins to pull the water out of the water
+column through the ceramic cup, causing suction on the water column. This force is then measured with a suction gauge. Some newer models have replaced the suction gauge with an electronic transducer. These electronic devices are usually more sensitive than the gauges. Tensiometers work well in soils with high soil-water content, but tend to lose good soil contact when the soil becomes too dry. Like the resistance blocks, they are difficult to remove from clay soils. Costs range from $30 for small tensiometers with gauges to $2000 for the electronic meters (reads multiple sites).
+Capacitance and TDR
+New devices and methods become available to growers every year. Two new techniques for soil moisture determination are instruments using Time-Domain Reflectometry (TDR probes) and Capacitance (C-Probes, Frequency-Domain Reflectometry [FDR]).
+TDR instruments work on the principle that the presence of water in the soil affect the speed of an electromagnetic wave (slows it down). The TDR sends an electromagnetic wave through a guide (usually a pair of parallel metal spikes) placed into the ground at the desired depth. It then measures the time it takes the wave to travel down the guide and bounce back (reflect back) up the guide. The time is recorded and converted to a soil moisture reading. The wetter the soil, the longer it takes for the electromagnetic wave to travel down the guide and reflect back.
+C-Probes and FDRs use an AC oscillator to form a "tuned" circuit with the soil. After inserting probes that are either parallel spikes or metal rings into the soil, a tuned circuit frequency is established. This frequency changes depending on the soil moisture content. Most models use an access tube installed in the ground (similar to the neutron probe).
+TDR, FDR and C-Probes have all worked well, but have their limitations. They read only a small volume of soil surrounding the guides or probes. FDR and C-Probes are also sensitive to air gaps between the access tube and the soil. Many of these newer instruments require professional installation to operate properly. In soils where caliche and other hard pan layers exist, installing these probes may be difficult. This type of problem is compounded when the soil is dry. Cost for the probes range from $5,000-$10,000.
+Plant Indicators
+Also useful in determining WHEN to irrigate are plant indicators. Plant indicators enable the grower to use the plant directly for clues as to when to irrigate, not an indirect parameter such as soil or evaporative demand. Observing a plant characteristic can a good indication of the status of the soil's moisture content.
+Infrared/Canopy Temperature
+An infrared (IR) thermometer measures the thermal temperature of the plant leaves or a crop canopy. Similar to humans perspiring to keep cool, plants transpire through
+Figure 5. Diagram of an infrared sensor. This is a hand-held model.
+openings called stomata. Once plants go into water stress, they begin to close their stomata and cease to transpire, causing the plant to "heat up" and the canopy temperature to rise. Infrared readings can detect this increase in plant temperature.
+When using this method, baseline temperatures need to be taken prior to measurements. The baseline temperature should be taken in a well-watered field, free of water stress. On days when the air temperature is very high, some plants will stop transpiring for a brief period. If infrared readings are being taken at that time, they may read that there is a water stress when, in fact, it is just a normal shutdown period. Compare readings with the well-watered readings to make a decision. IR also requires taking temperature readings on clear days at solar noon. This normally occurs between noon and 2:00 p.m. This is to assure that the measurement is taken at maximum solar intensity. During the monsoon season, this may be difficult to achieve due to cloud cover. Early in the season, IR readings will often measure soil temperature when canopy cover is sparse. These readings usually result in higher temperature readings since the soil tends to heat up quickly. Figure 5 is a diagram of a hand-held IR gun.
+Computerized Irrigation Scheduling
+The use of computer programs to help schedule irrigation was introduced in the 1970's. However, only recently with the introduction of fast, personal computers have they begun to gain wider acceptance. Several methods can be used to determine crop water use and help growers schedule irrigation. The most common is to use an equation to calculate the water use or evapotranspiration (ET) for a reference crop and relate that to other crops. ET refers to water loss from soil evaporation and plant transpiration. In the beginning of a crop's growing season, the plants are small and most of the
+Table 2. List of equations used to calculate reference ET. (Jensen et al., 1990).
