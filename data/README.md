@@ -15,3 +15,11 @@ However due to the size of the raw (and processed) files, we only provided a sam
     - Mostly for the conversion and cleaning of HTML files to text
 - `example_from_annotations_to_jsonl.ipynb`
     - Exporting the annotated file (json/csv) into proper SQuAD-like splits
+
+
+### Outcomes
+
+The final datasets are hosted and can be found here:
+- [Agricultural Extension corpus](https://huggingface.co/datasets/msu-ceco/aec_v1)
+- [Agricultural Extension question answering dataset](https://huggingface.co/datasets/msu-ceco/agxqa_v1)
+
