@@ -17,10 +17,9 @@ This study addresses the limited application of large language models (LLMs) in 
 
 ## Dependencies
 
-The Python packages can be installed in a conda environment:
-```
-conda env create -f environment.yaml
-```
+The Python packages can be installed in a conda environment.
+ * Instructions for Tranformers: [here](https://huggingface.co/docs/transformers/installation)
+ * Instructions for Adapters-Tranformers:  [here](https://docs.adapterhub.ml/installation.html)
 
 ## Data Preparation
 
